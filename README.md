@@ -1,1 +1,2 @@
-Brain test
+# Vanilla-vite-template
+
