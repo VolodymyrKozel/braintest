@@ -1,11 +1,11 @@
 {
-  "name": "brain-test",
+  "name": "vanilla-vite-template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/brain-test/",
+    "build": "vite build --base=/vanilla-vite-template/",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "netlify deploy -p"
